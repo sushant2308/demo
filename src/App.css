@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
 .App {
   text-align: center;
+  font-family: 'STIX Two Math', serif;
 }
 
 .App-logo {
